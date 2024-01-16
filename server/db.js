@@ -13,3 +13,4 @@ module.exports = () => {
 		console.log("Could not connect database!");
 	}
 };
+
